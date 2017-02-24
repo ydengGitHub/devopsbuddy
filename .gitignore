@@ -1,4 +1,8 @@
-target
+
+#Package Files#
+*.jar
+*.war
+*.ear
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -10,6 +14,7 @@ target
 .springBeans
 
 ### IntelliJ IDEA ###
+target
 .idea
 *.iws
 *.iml
